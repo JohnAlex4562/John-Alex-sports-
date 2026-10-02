@@ -24,4 +24,10 @@
   height: auto !important;
   padding-top: 30px !important;
   padding-bottom: 30px !important;
+  justify-content: flex-start !important;
+  align-items: flex-start !important;
+}
+
+.hero-content {
+  margin-top: 0 !important;
 }
