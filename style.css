@@ -22,8 +22,8 @@
 .hero {
   min-height: 0 !important;
   height: auto !important;
-  padding-top: 30px !important;
-  padding-bottom: 30px !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
   justify-content: flex-start !important;
   align-items: flex-start !important;
 }
